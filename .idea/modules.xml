@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jackmouse-spring.iml" filepath="$PROJECT_DIR$/.idea/jackmouse-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-01/jackmouse-spring-step-01.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-01/jackmouse-spring-step-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-01/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-01/spring-beans/spring-beans.iml" />
+    </modules>
+  </component>
+</project>

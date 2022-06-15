@@ -1,0 +1,20 @@
+package com.jackmouse.beans.factory;
+
+import com.jackmouse.beans.BeansException;
+
+/**
+ * @ClassName BeanFactory
+ * @Description bean工厂
+ * @Author zhoujiaangyao
+ * @Date 2022/6/14 23:02
+ * @Version 1.0
+ **/
+public interface BeanFactory {
+    /**
+     * 根据名称获取bean对象
+     * @param name 名称
+     * @return bean对象
+     * @throws BeansException
+     */
+    Object getBean(String name) throws BeansException;
+}

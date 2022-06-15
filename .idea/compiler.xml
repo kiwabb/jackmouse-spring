@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-beans" />
+        <module name="spring-beans (1)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="jackmouse-spring-step-01" target="1.8" />
+      <module name="jackmouse-spring-step-02" target="1.8" />
       <module name="spring-beans" target="1.8" />
+      <module name="spring-beans (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,9 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-01/jackmouse-spring-step-01.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-01/jackmouse-spring-step-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-02/jackmouse-spring-step-02.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-02/jackmouse-spring-step-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-03/jackmouse-spring-step-03.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-03/jackmouse-spring-step-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-04/jackmouse-spring-step-04.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-04/jackmouse-spring-step-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-01/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-01/spring-beans/spring-beans.iml" />
       <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-02/spring-beans/spring-beans (1).iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-02/spring-beans/spring-beans (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-03/spring-beans/spring-beans (2).iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-03/spring-beans/spring-beans (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackmouse-spring-step-04/spring-beans/spring-beans (3).iml" filepath="$PROJECT_DIR$/jackmouse-spring-step-04/spring-beans/spring-beans (3).iml" />
     </modules>
   </component>
 </project>

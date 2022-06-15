@@ -6,18 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-beans (2)" />
         <module name="spring-beans" />
+        <module name="spring-beans (2)" />
         <module name="spring-beans (1)" />
+        <module name="spring-beans (3)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="jackmouse-spring-step-01" target="1.8" />
       <module name="jackmouse-spring-step-02" target="1.8" />
       <module name="jackmouse-spring-step-03" target="1.8" />
+      <module name="jackmouse-spring-step-04" target="1.8" />
       <module name="spring-beans" target="1.8" />
       <module name="spring-beans (1)" target="1.8" />
       <module name="spring-beans (2)" target="1.8" />
+      <module name="spring-beans (3)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

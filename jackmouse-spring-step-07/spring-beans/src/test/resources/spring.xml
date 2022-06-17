@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean id="userDao" class="com.jackmouse.beans.factory.test.bean.UserDao"/>
+
+    <bean id="userService" class="com.jackmouse.beans.factory.test.bean.UserService">
+        <property name="uId" value="10002"/>
+        <property name="userDao" ref="userDao"/>
+    </bean>
+
+</beans>

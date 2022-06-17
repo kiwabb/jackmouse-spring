@@ -12,8 +12,11 @@
         <module name="spring-beans (1)" />
         <module name="spring-beans (4)" />
         <module name="spring-beans (3)" />
+        <module name="spring-core (2)" />
+        <module name="spring-beans (6)" />
         <module name="spring-beans (5)" />
         <module name="spring-core (1)" />
+        <module name="spring-context (1)" />
         <module name="spring-context" />
       </profile>
     </annotationProcessing>
@@ -24,15 +27,19 @@
       <module name="jackmouse-spring-step-04" target="1.8" />
       <module name="jackmouse-spring-step-05" target="1.8" />
       <module name="jackmouse-spring-step-06" target="1.8" />
+      <module name="jackmouse-spring-step-07" target="1.8" />
       <module name="spring-beans" target="1.8" />
       <module name="spring-beans (1)" target="1.8" />
       <module name="spring-beans (2)" target="1.8" />
       <module name="spring-beans (3)" target="1.8" />
       <module name="spring-beans (4)" target="1.8" />
       <module name="spring-beans (5)" target="1.8" />
+      <module name="spring-beans (6)" target="1.8" />
       <module name="spring-context" target="8" />
+      <module name="spring-context (1)" target="8" />
       <module name="spring-core" target="8" />
       <module name="spring-core (1)" target="8" />
+      <module name="spring-core (2)" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

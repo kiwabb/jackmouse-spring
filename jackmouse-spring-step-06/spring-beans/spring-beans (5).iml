@@ -17,6 +17,6 @@
     <orderEntry type="library" name="Maven: cglib:cglib:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.ow2.asm:asm:7.1" level="project" />
     <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.5.0" level="project" />
-    <orderEntry type="module" module-name="spring-core (5)" />
+    <orderEntry type="library" name="Maven: org.example:spring-core:1.0-SNAPSHOT" level="project" />
   </component>
 </module>

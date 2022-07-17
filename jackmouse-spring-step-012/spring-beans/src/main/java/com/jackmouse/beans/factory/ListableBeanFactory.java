@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  * @ClassName ListableBeanFactory
- * @Description 枚举工厂所有 bean 实例
+ * @Description 枚举工厂所有 bean 实例，细化许多BeanFactory的功能
  * @Author zhoujiaangyao
  * @Date 2022/6/16 18:42
  * @Version 1.0

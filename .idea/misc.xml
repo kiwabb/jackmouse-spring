@@ -14,7 +14,16 @@
         <option value="$PROJECT_DIR$/jackmouse-spring-step-09/pom.xml" />
         <option value="$PROJECT_DIR$/jackmouse-spring-step-010/pom.xml" />
         <option value="$PROJECT_DIR$/jackmouse-spring-step-011/pom.xml" />
+        <option value="$PROJECT_DIR$/jackmouse-spring-step-012/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/jackmouse-spring-step-01/spring-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/jackmouse-spring-step-011/spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/jackmouse-spring-step-05/spring-core/pom.xml" />
+        <option value="$PROJECT_DIR$/jackmouse-spring-step-06/spring-context/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
